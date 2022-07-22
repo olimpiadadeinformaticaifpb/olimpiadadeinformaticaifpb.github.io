@@ -4,7 +4,7 @@
   <li>Inserir as logomarcas.</li>
 </ul>
 
-# 2 - Descrição do Projeto
+# 2 - Descrição do Projeto <mark>CONCLUÍDO!!!!</mark>
 -> Acho que deveria ser "O que é o Projeto Olímpico de Programação?"
 
 -> Sugestão de texto:
@@ -26,7 +26,7 @@
 # 4 - Equipe
 -> Criar uma área que mostre os envolvidos no projeto, tanto professores como alunos.
 
-# 5 - Edições anteriores
+# 5 - Edições anteriores <mark>CONCLUÍDO!!!!</mark>
 -> Inserir apenas este link: http://coain.vhost.ifpb.edu.br/projeto-olimpico/.
 
 # 6 - Perguntas frequentes
@@ -74,7 +74,7 @@ Os treinamentos estão programados para iniciarem no dia 13/08/2022 e finalizare
 
 -> Nesse item seria explicado que a Olimpíada é uma atividade do Projeto Olímpico de Programação e que ocorre no encerramento do projeto.
 
-# 8 - Remover o Pytaco
+# 8 - Remover o Pytaco <mark>CONCLUÍDO!!!!</mark>
 
 -> Infelizmente o Pytaco está fora do ar. Não tive condições de dar continuidade ainda.
 
