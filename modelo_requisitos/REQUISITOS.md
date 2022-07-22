@@ -29,7 +29,7 @@
 # 5 - Edições anteriores <mark>CONCLUÍDO!!!!</mark>
 -> Inserir apenas este link: http://coain.vhost.ifpb.edu.br/projeto-olimpico/.
 
-# 6 - Perguntas frequentes
+# 6 - Perguntas frequentes <mark>CONCLUÍDO!!!!</mark>
 -> Inserir os seguintes textos:
 
 ### 1 – Quem pode participar do Projeto Olímpico de Programação?
