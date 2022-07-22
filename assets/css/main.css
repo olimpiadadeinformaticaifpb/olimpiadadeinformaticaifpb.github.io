@@ -60,6 +60,10 @@ mark {
 	color: inherit;
 }
 
+summary {
+	font-weight: bold;
+}
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
