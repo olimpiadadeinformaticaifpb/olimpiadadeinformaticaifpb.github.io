@@ -1,4 +1,4 @@
-# 1 - O Nome do site
+# 1 - O Nome do site <mark>CONCLUÍDO!!!!</mark>
 <ul>
   <li>Acho que o nome poderia ser "Projeto Olímpico de Programação - IFPB Campina Grande". Percebi que o site foi montado para a olimpíada em si. Agora, a ideia é montar para o projeto.</li>
   <li>Inserir as logomarcas.</li>
@@ -23,7 +23,7 @@
 ## Até quando estarão abertas as inscrições?
 -> As inscrições para participar do Projeto Olimpíada de informática do IFPB-CG estarão abertas até o dia 11 de agosto de 2022,  às 23h59.
 
-# 4 - Equipe
+# 4 - Equipe <mark>CONCLUÍDO!!!!</mark>
 -> Criar uma área que mostre os envolvidos no projeto, tanto professores como alunos.
 
 # 5 - Edições anteriores <mark>CONCLUÍDO!!!!</mark>

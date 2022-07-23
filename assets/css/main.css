@@ -64,6 +64,11 @@ summary {
 	font-weight: bold;
 }
 
+span.membro_equipe {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
