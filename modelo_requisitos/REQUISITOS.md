@@ -15,7 +15,7 @@
 <p>As Escolas Cidadãs Integral Técnica Professor Bráulio Maia Júnior e Nenzinha Cunha Lima são <strong>parceiras</strong> do IFPB neste projeto.</p>
 
 
-# 3 - Inscrições
+# 3 - Inscrições <mark>CONCLUÍDO!!!!</mark>
 
 ## Onde posso realizar a inscrição?
 -> Você pode acessar o formulário de inscrição disponível neste link: https://forms.gle/F6ncdaUS8HYDm8w6A.
@@ -68,7 +68,7 @@ Se você ficou interessado e deseja participar, acesse o Formulário de Inscriç
 
 Os treinamentos estão programados para iniciarem no dia 13/08/2022 e finalizarem no dia 17/12/2022, sujeito a possíveis alterações.
 
-# 7 - Resultado
+# 7 - Resultado <mark>CONCLUÍDO!!!!</mark>
 
 -> Acho que poderia ser substituído por um novo item intitulado "Olimpíada de Informática do IFPB Campina Grande"
 
