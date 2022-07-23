@@ -69,6 +69,10 @@ span.membro_equipe {
 	text-decoration: underline;
 }
 
+article#art_olimpiada {
+	width: 100% !important;
+}
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
