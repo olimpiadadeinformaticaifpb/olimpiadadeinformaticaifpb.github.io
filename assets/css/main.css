@@ -64,6 +64,10 @@ summary {
 	font-weight: bold;
 }
 
+details {
+	cursor: pointer;
+}
+
 span.membro_equipe {
 	font-weight: bold;
 	text-decoration: underline;
