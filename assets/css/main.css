@@ -60,6 +60,19 @@ mark {
 	color: inherit;
 }
 
+summary {
+	font-weight: bold;
+}
+
+span.membro_equipe {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+article#art_olimpiada {
+	width: 100% !important;
+}
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
@@ -178,6 +191,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		text-align: justify;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
