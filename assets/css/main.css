@@ -64,11 +64,30 @@ section#edicoes_resultados > ol {
 	list-style-type: disc;
 }
 
-summary {
+span.gold_medal {
+	color: gold;
+	text-shadow: 0px 0px 4px gold;
+}
+
+span.silver_medal {
+	color: silver;
+	text-shadow: 0px 0px 4px silver;
+	filter: brightness(1.5);
+}
+
+span.bronze_medal {
+	color: #8C7853;
+	text-shadow: 0px 0px 4px #8C7853;
+	filter: contrast(300%);
+}
+
+span.competicao {
+	text-decoration: underline;
 	font-weight: bold;
 }
 
-details {
+summary {
+	font-weight: bold;
 	cursor: pointer;
 }
 
