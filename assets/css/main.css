@@ -60,6 +60,10 @@ mark {
 	color: inherit;
 }
 
+section#edicoes_resultados > ol {
+	list-style-type: disc;
+}
+
 summary {
 	font-weight: bold;
 }
