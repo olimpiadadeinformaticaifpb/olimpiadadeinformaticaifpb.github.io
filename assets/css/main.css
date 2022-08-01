@@ -86,6 +86,20 @@ span.competicao {
 	font-weight: bold;
 }
 
+section#realizacao > h1 {
+	text-align: center;
+}
+
+img.circle_image {
+	border-radius: 100%;
+}
+
+section#realizacao div {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
 summary {
 	font-weight: bold;
 	cursor: pointer;
