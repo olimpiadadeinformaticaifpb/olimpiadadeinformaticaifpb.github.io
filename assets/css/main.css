@@ -88,10 +88,12 @@ span.competicao {
 
 section#realizacao > h1 {
 	text-align: center;
+	margin-bottom: 0px;
 }
 
 img.circle_image {
 	border-radius: 100%;
+	margin-top: 40px;
 }
 
 section#realizacao div {
